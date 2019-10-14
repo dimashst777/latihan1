@@ -13,6 +13,8 @@
 $ git config --global user.name “nama_user”
 $ git config --global user.email “nama_user”
 - ![Gitconfig](https://github.com/dimashst777/latihan1/blob/master/gambar1/Untitled%201.png)
+![repolokal](https://github.com/dimashst777/latihan1/blob/master/gambar1/2.png)File README.md berhasil dibuat. 
+
 ## Membuat Repo lokal
 - Buka direktory aktif, misal: d:\labs_pemrograman1 (buka menggunakan Windows Explorer) 
 - klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash command
