@@ -25,8 +25,7 @@ File README.md berhasil dibuat..
 - $ mkdir latihan1 $ cd latihan1
 - Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 - direktory aktif menjadi: d:\labs_pemrograman1\latihan1
-- ![repolokal](https://github.com/dimashst777/latihan1/blob/master/gambar1/2.png)File README.md berhasil dibuat. 
-
+![mkdir](https://github.com/dimashst777/latihan1/blob/master/gambar1/3.png)
 ## Membuat repo lokal 1.2
 - jalankan perintah git init,untuk membuat repo lokal
 - $ git init
