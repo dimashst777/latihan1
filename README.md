@@ -39,7 +39,7 @@ File README.md berhasil dibuat..
 - disini kita akan coba buat satu file bernama README.md (text file)
 - $ echo “#Latihan 1” >> README.md
 - File README.md berhasil dibuat. 
-- ![Filebaru](C:/Users/user/Desktop/New%20folder/Capture13.PNG)
+- ![echo](https://github.com/dimashst777/latihan1/blob/master/gambar1/5.png)
 
 ## Menambahkan File baru pada repository
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
