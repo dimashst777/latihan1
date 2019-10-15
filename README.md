@@ -1,4 +1,4 @@
-﻿# latihan 1
+﻿# latihan
 ## Tutorial Cara menggunakan giter
 ## Instalasi Git
 - pertama download terlebih dahulu git nya di (git-scm.com)
@@ -33,6 +33,8 @@ File README.md berhasil dibuat..
 - $ git init
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
+![gitinit]()
+
 
 ## Menambahkan File baru pada repository
 - Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository) 
@@ -45,13 +47,13 @@ File README.md berhasil dibuat..
 - Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
 - File README.md berhasil ditambahkan. 
 - $ git add README.md
-- ![Gitadd](C:/Users/user/Desktop/New%20folder/Capture3.PNG)
+- ![GitaddReadme](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-14%20133227.png)
 
 ## Commit (Menyimpan perubahan ke database)
 - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 - Perubahan berhasil disimpan.
 - $ git commit -m “File pertama saya”
-- ![gitaddreadmi](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-14%20133227.png)
+-
 ## Membuat repository server
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
