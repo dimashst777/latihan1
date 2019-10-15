@@ -53,7 +53,9 @@ File README.md berhasil dibuat..
 - Untuk menyimpan perubahan yang ada kedalam database repository local, gunakan perintah git commit -m “komentar commit”
 - Perubahan berhasil disimpan.
 - $ git commit -m “File pertama saya”
+
 -![Gitcommit](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-14%20133402.png)
+
 ## Membuat repository server
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
