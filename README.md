@@ -77,4 +77,4 @@ File README.md berhasil dibuat..
 ## Clone Repository
 - Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 - Untuk melakukan cloning, gunakan perintah git clone [url]
-- ![clone](C:/Users/user/Desktop/New%20folder/Capture8.PNG)
+- ![clone](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-14%20133524.png)
