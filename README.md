@@ -67,7 +67,7 @@ File README.md berhasil dibuat..
 - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 - $ git remote add origin https://github.com/.........
--[Gitaddorigin](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-15%20074703.png)
+-![Gitaddorigin](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-15%20074703.png)
 
 ## Push (Mengirim perubahan ke server)
 - Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
