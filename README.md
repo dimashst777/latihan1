@@ -33,7 +33,7 @@ File README.md berhasil dibuat..
 - $ git init
 - Repository baru berhasil di inisialisasi, dengan terbentuknya satu direktori hidden dengan nama .git 
 - Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
-![gitinit]()
+![gitinit](https://github.com/dimashst777/latihan1/blob/master/gambar1/Annotation%202019-10-14%20133702.png)
 
 
 ## Menambahkan File baru pada repository
