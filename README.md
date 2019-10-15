@@ -60,6 +60,7 @@ File README.md berhasil dibuat..
 - Server reopsitory yang akan kita gunakan adalah http://github.com 
 - Anda harus membuat akun terlebih dahulu. 
 - Pada laman github, klik tombol start a project dan Dari menu (icon +) klik New Repository
+![Gitmenu](https://github.com/dimashst777/latihan1/blob/master/gambar1/git%20menu.png)
 ## Menambahkan Remote Repository
 - Remote Repository merupakan repository server yang akan digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat diakses oleh banyak user. 
 - Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
